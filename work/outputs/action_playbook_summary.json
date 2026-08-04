@@ -1,0 +1,23 @@
+{
+  "best_model": "random_forest",
+  "rows_scored": 30000,
+  "top_score": 81.92846726727653,
+  "high_confidence_items": 3576,
+  "action_mix": {
+    "monitor": 13069,
+    "refresh": 8207,
+    "refresh_and_review_ctr": 6655,
+    "refresh_and_review_engagement": 1987,
+    "expand_and_refresh": 82
+  },
+  "top_reasons": {
+    "declining_with_demand": 13152,
+    "visible_model_opportunity": 10653,
+    "low_ctr_visible_page": 9759,
+    "ctr_review_candidate": 9759,
+    "general_refresh_review": 9117,
+    "model_decline_risk": 8459,
+    "page_one_decay_risk": 7076,
+    "low_engagement_visible_page": 6508
+  }
+}
